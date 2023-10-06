@@ -19,7 +19,7 @@
 ## Используемые навыки и инструменты
 `Python`, `Pandas`, `Seaborn`, `Scipy`, `Matplotlib`, `Phik`
 
-# A/B-тестирование [(Посмотреть проект)](https://github.com/Denis-Ponomarev/My_projects-yandex_data_analyst/blob/main/08%20%D0%9A%D0%B0%D0%BA%20%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8E%20%D1%81%20%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/%D0%A0%D1%8B%D0%BD%D0%BE%D0%BA%20%D0%B7%D0%B0%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%8B.ipynb)
+# A/B-тестирование [(Посмотреть проект)](https://github.com/Denis-Ponomarev/My_projects-yandex_data_analyst/blob/main/10%20%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/%D0%90%D0%92%20%D1%82%D0%B5%D1%81%D1%82.ipynb)
 ## Постановка задачи:
 Ваша задача — провести оценку результатов A/B-теста. В вашем распоряжении есть датасет с действиями пользователей, техническое задание и несколько вспомогательных датасетов.
 Оцените корректность проведения теста и проанализируйте его результаты.
